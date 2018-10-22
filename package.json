@@ -1,0 +1,14 @@
+{
+  "name": "boom-box",
+  "version": "1.0.0",
+  "description": "A multi-purpose bot that serves the \"VR:Hip-Hop\" community.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "pixelcute.studio",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
