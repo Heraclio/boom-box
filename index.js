@@ -42,6 +42,6 @@ client.on('guildMemberAdd', async member => {
   } catch (error) {
     console.log('Unable to send a message to guild.', error)
   }
-})
+});
 
 client.login(config.token);
